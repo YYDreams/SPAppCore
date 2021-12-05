@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SPAppCore_Tests' do
+  pod 'SPAppCore', :path => '../'
+  
+  
+end
